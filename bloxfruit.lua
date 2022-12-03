@@ -1,6 +1,6 @@
 local ts = game:GetService("TweenService")
 local webhookUrl = "https://discord.com/api/webhooks/1048474854980063294/hO8p5eV-M0n3ILvMgIIoeIqVcfjgRV1-q4TtOm-Ei7lC0EFwmTShAY2xgmcKOI9cRI_y"
-
+test
 local blacklisted = {
   "Kilo",
   "Spin",
